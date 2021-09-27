@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400&display=swap';
+
 * {
   @include box-sizing;
   line-height: 1.65;
@@ -31,7 +33,7 @@ h4,
 h5,
 h6 {
   color: $default-shade;
-  font-family: $sans-serif;
+  font-family: 'Roboto Slab';
   line-height: normal;
 }
 
